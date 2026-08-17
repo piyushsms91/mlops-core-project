@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://piyushsms91-edu-mlproject1-342480083282
