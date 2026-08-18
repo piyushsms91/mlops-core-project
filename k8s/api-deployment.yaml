@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: api
-        image: loksaieta/loksai-mlops830api:latest
+        image: kumap209/loksai-mlops830api:latest
         ports:
         - containerPort: 8000
 ---
