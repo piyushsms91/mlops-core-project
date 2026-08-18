@@ -23,7 +23,7 @@ def validate_op():
     )
 
     s3.download_file(
-        "loksai-edu-mlproject1",
+        "piyushsms91-edu-mlproject1-342480083282",
         "reviews.csv",
         "mlops-core-project/data/raw/reviews.csv"
     )
@@ -54,7 +54,7 @@ def preprocess_op():
     )
 
     s3.download_file(
-        "loksai-edu-mlproject1",
+        "piyushsms91-edu-mlproject1-342480083282",
         "reviews.csv",
         "mlops-core-project/data/raw/reviews.csv"
     )
