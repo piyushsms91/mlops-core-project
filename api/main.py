@@ -6,7 +6,7 @@ import os
 # ---------------------------
 # CHANGE THESE IF NEEDED
 # ---------------------------
-S3_BUCKET = "loksai-edu-mlproject1"
+S3_BUCKET = "piyushsms91-edu-mlproject1-342480083282"
 S3_KEY = "latest/model.pkl"
 LOCAL_MODEL_PATH = "models/model.pkl"
 # ---------------------------
