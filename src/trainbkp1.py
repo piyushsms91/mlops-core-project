@@ -13,7 +13,7 @@ from sklearn.metrics import accuracy_score
 # ==============================
 # CONFIG
 # ==============================
-S3_BUCKET = "loksai-edu-mlproject1"
+S3_BUCKET = "piyushsms91-edu-mlproject1-342480083282"
 S3_KEY = "latest/model.pkl"
 
 EXPERIMENT_NAME = "sentiment-classifier"
